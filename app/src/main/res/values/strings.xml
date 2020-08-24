@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HiPeru</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="presentSimple">Se utiliza para hablar de cosas, hábitos diarios o actividades que suelen hacerse todos los días y siempre son verdad.</string>
+    <string name="presentContinuos">Para formar el presente continuo se utiliza el verbo auxiliar “to be” y el verbo+ing. \n \n Usos \n \n
+        1. El presente continuo se utiliza para hablar sobre algo que está pasando en el momento en el que hablamos. \n
+    2. También lo usamos para hablar de algo que está sucediendo en la actualidad pero no necesariamente cuando hablamos. En este caso, se utilizan expresiones de tiempo como “currently”, “lately” o “these days”. \n
+    3. Usamos el presente continuo para hablar de algo que está ya decidido que se hará en el futuro próximo. Su uso indica que es bastante seguro que lo planificado sucederá.</string>
+    <string name="presentPerfect">El “present perfect” se emplea para señalar un vínculo entre el presente y el pasado. El tiempo en que transcurre la acción es anterior al presente pero inespecífico y, a menudo, recae un mayor interés sobre el resultado que sobre la propia acción. \n
+    \n
+    El “present perfect” de cualquier verbo está compuesto por dos elementos: la forma apropiada del verbo auxiliar to have (en presente) y el “past participle” del verbo principal. La forma del “past participle” de un verbo regular es raíz+ed, e.g. played, arrived, looked. En cuanto a los verbos irregulares, consulta la Tabla de verbos irregulares de la sección “Verbos”.</string>
+    <string name="presentPerfectContinuos">El “present perfect continuous” se refiere a un periodo temporal inespecífico situado entre el pasado y el presente. El hablante se refiere a algo que empezó y que puede no haber concluido en ese periodo de tiempo. Le interesa tanto el proceso como el resultado, y es posible que dicho proceso acabe de terminar o que aún no haya finalizado. \n
+    \n
+    El “present perfect continuous” está compuesto por dos elementos: el “present perfect” del verbo “to be” (have/has been) y el “present participle” del verbo principal (raíz+ing)</string>
+    <string name="pastSimple">El “simple past” se utiliza para hablar de una acción que concluyó en un tiempo anterior al actual. La duración no es relevante. El tiempo en que se sitúa la acción puede ser el pasado reciente o un pasado lejano.</string>
+    <string name="pastContinuos">El “past continuous” describe acciones o eventos situados en un tiempo anterior al presente, cuyo comienzo se sitúa en el pasado y que todavía no ha concluido en el momento de hablar. Dicho de otro modo, expresa una acción incompleta o inconclusa del pasado.</string>
+    <string name="pastSimplePassive">Affirmative form \n
+    Object + was / were + verb3 (past participle)</string>
+    <string name="pastPerfect">El “past perfect” hace referencia a un tiempo anterior al pasado reciente. Se emplea para señalar que un evento ocurrió antes que otro en el pasado. No importa cuál de los eventos se mencione primero, porque el tiempo verbal deja claro el orden temporal en que acontecieron.</string>
+    <string name="pastPerfectContinuos">El “past perfect continuous” se corresponde con el “present perfect continuous” pero se refiere a un tiempo anterior al pasado reciente. Como ocurre con el “present perfect continuous”, nos interesa más el proceso que el resultado.</string>
+    <string name="futureBeGoingTo">Es un futuro cierto o sea sabes que va a pasar</string>
+    <string name="futureWill">Futuro incierto</string>
+    <string name="mayOrMight">Es para hablar sobre planes pero completamente incierto. Posibilidad en el futuro</string>
+    <string name="could">Mas de tu capacidad</string>
+    <string name="should">Deber (de sugerencia)</string>
+    <string name="must">Deber (obligación)</string>
+    <string name="HiPeru">HipPeru</string>
+</resources>

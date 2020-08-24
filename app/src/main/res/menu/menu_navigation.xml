@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/itemGramatica"
+            android:icon="@drawable/gramatica"
+            android:tint="#9E9E9E"
+            android:title="Gramatica" />
+        <item
+            android:id="@+id/itemVocabulario"
+            android:icon="@drawable/vocabulary"
+            android:tint="#757575"
+            android:title="Vocabulario" />
+        <item
+            android:id="@+id/itemVerbs"
+            android:icon="@drawable/vocabulary"
+            android:tint="#757575"
+            android:title="Verbs" />
+        <item
+            android:id="@+id/itemIrregularVerbs"
+            android:icon="@drawable/vocabulary"
+            android:tint="#757575"
+            android:title="IrregularVerbs" />
+
+    </group>
+</menu>

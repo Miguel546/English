@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temas">
+        <item>People</item>
+        <item>Pronouns</item>
+        <item>Possessive pronouns</item>
+        <item>Conditionals</item>
+    </string-array>
+    <string-array name="descripcion">
+        <item>Singular and plural</item>
+        <item>Singular and plural</item>
+        <item>Singular and plural</item>
+        <item>Zero, First, Second, Third Conditional</item>
+    </string-array>
+    <string-array name="imagenes">
+        <item>@drawable/persons</item>
+        <item>@drawable/pronombres</item>
+        <item>@drawable/mine</item>
+        <item>@drawable/conditional</item>
+    </string-array>
+    <string-array name="peopleSingular">
+        <item>I</item>
+        <item>You</item>
+        <item>He</item>
+        <item>She</item>
+        <item>It</item>
+    </string-array>
+    <string-array name="peoplePlural">
+        <item>We</item>
+        <item>You</item>
+        <item>They</item>
+    </string-array>
+    <string-array name="pronounsSingular">
+        <item>Me</item>
+        <item>You</item>
+        <item>Him</item>
+        <item>Her</item>
+        <item>It</item>
+    </string-array>
+    <string-array name="pronounsPlural">
+        <item>Us</item>
+        <item>You</item>
+        <item>Them</item>
+    </string-array>
+    <string-array name="possesivePronounsSingular">
+        <item>My</item>
+        <item>You</item>
+        <item>His</item>
+        <item>Her</item>
+        <item>Its</item>
+    </string-array>
+    <string-array name="possesivePronounsPlural">
+        <item>Our</item>
+        <item>Your</item>
+        <item>Their</item>
+    </string-array>
+    <string-array name="vocabularyTiles">
+        <item>Warehouse</item>
+        <item>Office</item>
+        <item>Doctors office</item>
+        <item>Laboratory</item>
+        <item>Hotel</item>
+        <item>Police station</item>
+        <item>Theater</item>
+        <item>Train station</item>
+        <item>Bank</item>
+        <item>Post office</item>
+        <item>Restaurant</item>
+        <item>Real state agency</item>
+    </string-array>
+    <string-array name="vocabularyImages">
+        <item>@drawable/warehouse</item>
+        <item>@drawable/office</item>
+        <item>@drawable/doctorsoffice</item>
+        <item>@drawable/laboratory</item>
+        <item>@drawable/hotel</item>
+        <item>@drawable/policestation</item>
+        <item>@drawable/theater</item>
+        <item>@drawable/trainstation</item>
+        <item>@drawable/interbank</item>
+        <item>@drawable/postoffice</item>
+        <item>@drawable/restaurant</item>
+        <item>@drawable/realstateagency</item>
+    </string-array>
+    <string-array name="warehouseWords">
+        <item>Shipment</item>
+        <item>Forklift</item>
+        <item>Inventory</item>
+        <item>Stack</item>
+        <item>Delivery</item>
+        <item>Package</item>
+        <item>Load</item>
+        <item>Unload</item>
+        <item>Invoice</item>
+        <item>Drop off</item>
+        <item>Stocker</item>
+        <item>Supervisor</item>
+        <item>Loader</item>
+        <item>Driver</item>
+    </string-array>
+    <string-array name="warehouseMeanings">
+        <item>Envio</item>
+        <item>Máquina elevadora</item>
+        <item>Inventario</item>
+        <item>Pila</item>
+        <item>Delivery</item>
+        <item>Paquete</item>
+        <item>Carga</item>
+        <item>Descarga</item>
+        <item>Boleta</item>
+        <item>Dejar a un lado</item>
+        <item>Los que trabajan en el almacen poniendo las cosas en pilas</item>
+        <item>Supervisor</item>
+        <item>Hombre que carga cosas del almacen para barcos, aviones, camiones</item>
+        <item>Conductor</item>
+    </string-array>
+    <string-array name="officeWords">
+        <item>Department</item>
+        <item>Accounting</item>
+        <item>Payroll</item>
+        <item>Sales</item>
+        <item>Budget</item>
+        <item>Paycheck</item>
+        <item>Raise</item>
+        <item>Bonus</item>
+        <item>Interview</item>
+        <item>Hire</item>
+        <item>Fire</item>
+        <item>Let go</item>
+        <item>Project</item>
+        <item>Manager</item>
+        <item>Co-worker</item>
+        <item>Employee</item>
+        <item>Employer</item>
+        <item>Boss</item>
+        <item>Applicant</item>
+        <item>Interviewer</item>
+        <item>CEO</item>
+        <item>Accountant</item>
+    </string-array>
+    <string-array name="officeMeanings">
+        <item>Departmento o área de una empresa</item>
+        <item>Contabilidad</item>
+        <item>Nómina</item>
+        <item>Ventas</item>
+        <item>Presupuesto</item>
+        <item>Cheque de pago</item>
+        <item>Aumentos de sueldo</item>
+        <item>Bonus</item>
+        <item>Entrevista</item>
+        <item>Contratar</item>
+        <item>Despedir</item>
+        <item>Despedir</item>
+        <item>Proyecto</item>
+        <item>Director de un área</item>
+        <item>Compañero de trabajo</item>
+        <item>Empleado</item>
+        <item>Empleador</item>
+        <item>Jefe</item>
+        <item>Aplicante</item>
+        <item>Entrevistador</item>
+        <item>Gerente General</item>
+        <item>Contador</item>
+    </string-array>
+    <string-array name="doctorofficeWords">
+        <item>Examination</item>
+        <item>Appointment</item>
+        <item>Medicine</item>
+        <item>Prescription</item>
+        <item>Dose</item>
+        <item>Pill</item>
+        <item>Injury</item>
+        <item>Pain</item>
+        <item>Cold</item>
+        <item>Sick</item>
+        <item>Recover</item>
+        <item>Check-up</item>
+        <item>Doctor</item>
+        <item>Nurse</item>
+        <item>Patient</item>
+    </string-array>
+    <string-array name="doctorofficeMeanings">
+        <item>Examinación, examen</item>
+        <item>Cita del doctor</item>
+        <item>Medicina</item>
+        <item>Prescripción, receta médica</item>
+        <item>Dosis</item>
+        <item>Pildora</item>
+        <item>Lesión</item>
+        <item>Dolor</item>
+        <item>Resfrío</item>
+        <item>Enfermo</item>
+        <item>Recuperarse</item>
+        <item>Revisión médica</item>
+        <item>Doctor</item>
+        <item>Enfermera</item>
+        <item>Paciente</item>
+    </string-array>
+    <string-array name="laboratoryWords">
+        <item>Lab</item>
+        <item>Test results</item>
+        <item>Microscope</item>
+        <item>Test tubes</item>
+        <item>Sample</item>
+        <item>Report</item>
+        <item>Scientist</item>
+        <item>Test subject</item>
+    </string-array>
+    <string-array name="laboratoryMeanings">
+        <item>Laboratio</item>
+        <item>Resultados del examen</item>
+        <item>Microscopio</item>
+        <item>Tubos de prueba</item>
+        <item>Muestra</item>
+        <item>Reporte</item>
+        <item>Científico</item>
+        <item>Sujeto de prueba</item>
+    </string-array>
+    <string-array name="airportWords">
+        <item>Check in</item>
+        <item>Baggage</item>
+        <item>Luggage</item>
+        <item>Bording pass</item>
+        <item>Seat assignment</item>
+        <item>Overhead bin</item>
+        <item>Baggage claim</item>
+        <item>Board</item>
+        <item>Depart</item>
+        <item>Pilot</item>
+        <item>Ticket agent</item>
+        <item>Passenger</item>
+        <item>Flight attendant</item>
+    </string-array>
+    <string-array name="airportMeaning">
+        <item>Registrarse</item>
+        <item>Equipaje</item>
+        <item>Equipaje</item>
+        <item>Pasaje/Ticket de abordo</item>
+        <item>Asignación de sitios</item>
+        <item>Compartimiento superior</item>
+        <item>Recojo de maletas</item>
+        <item>Abordar</item>
+        <item>Partir de</item>
+        <item>Piloto</item>
+        <item>Agente de tickets de aerolínea</item>
+        <item>Pasajero</item>
+        <item>Aeromozo</item>
+    </string-array>
+    <string-array name="hotelWord">
+        <item>Front desk</item>
+        <item>Room service</item>
+        <item>Room key</item>
+        <item>Room number</item>
+        <item>Check in</item>
+        <item>Check out</item>
+        <item>Concierge</item>
+        <item>Desk clerk</item>
+        <item>Guest</item>
+        <item>Visitor</item>
+        <item>Tourist</item>
+    </string-array>
+    <string-array name="hotelMeaning">
+        <item>Recepción</item>
+        <item>Servicio de limpieza al cuarto</item>
+        <item>Llave del cuarto</item>
+        <item>Número del cuarto</item>
+        <item>Registrarse</item>
+        <item>Registrarse de salida</item>
+        <item>Oficina de eventos</item>
+        <item>Recepcionista</item>
+        <item>Invitado</item>
+        <item>Visitante</item>
+        <item>Turista</item>
+    </string-array>
+    <string-array name="policestationWord">
+        <item>Car accident</item>
+        <item>Crime</item>
+        <item>Victim</item>
+        <item>Stolen</item>
+        <item>Lost</item>
+        <item>Arrest</item>
+        <item>Crash</item>
+        <item>Detain</item>
+        <item>Cell</item>
+        <item>Police officer</item>
+    </string-array>
+    <string-array name="policestationMeaning">
+        <item>Accidente de tránsito</item>
+        <item>Crimen</item>
+        <item>Victima</item>
+        <item>Robado</item>
+        <item>Perdido</item>
+        <item>Arrestar</item>
+        <item>Choque</item>
+        <item>Detener</item>
+        <item>Celdas, rejas</item>
+        <item>Oficial de policía</item>
+    </string-array>
+    <string-array name="taxiWord">
+        <item>Take me to</item>
+        <item>Headed to</item>
+        <item>Coming from</item>
+        <item>Fare</item>
+        <item>Tip</item>
+        <item>Change</item>
+        <item>Take the</item>
+        <item>Meter</item>
+        <item>Driver</item>
+        <item>Passenger</item>
+    </string-array>
+    <string-array name="taxiMeaning">
+        <item>Llévame a</item>
+        <item>Yendo a</item>
+        <item>Viniendo de</item>
+        <item>Precio del viaje / pasaje</item>
+        <item>Propina</item>
+        <item>Cambio</item>
+        <item>Toma el</item>
+        <item>Taximetro</item>
+        <item>Conductor</item>
+        <item>Pasaje</item>
+    </string-array>
+    <string-array name="theaterWord">
+        <item>Ticket</item>
+        <item>Seats</item>
+        <item>Sold out</item>
+        <item>Refreshments</item>
+        <item>Play</item>
+        <item>Movie</item>
+        <item>Opera</item>
+        <item>Performance</item>
+        <item>Actor</item>
+        <item>Actress</item>
+        <item>Singer</item>
+        <item>Attendant</item>
+    </string-array>
+    <string-array name="theaterMeaning">
+    <item>Ticket</item>
+    <item>Asientos</item>
+    <item>Agotado</item>
+    <item>Refrescos</item>
+    <item>Obra</item>
+    <item>Película</item>
+    <item>Opera</item>
+    <item>Actuación</item>
+    <item>Actor</item>
+    <item>Actriz</item>
+    <item>Cantante</item>
+    <item>Atendiente</item>
+</string-array>
+    <string-array name="trainStationWords">
+        <item>Ticket</item>
+        <item>Depart</item>
+        <item>Arrive</item>
+        <item>Catch</item>
+        <item>Truck number</item>
+        <item>Destination</item>
+        <item>Conductor</item>
+    </string-array>
+    <string-array name="trainStationMeanings">
+        <item>Ticket</item>
+        <item>Partir de</item>
+        <item>Llegar</item>
+        <item>Atrapar el tren</item>
+        <item>Linea de tren</item>
+        <item>Destino</item>
+        <item>Conductor</item>
+    </string-array>
+    <string-array name="retailStoreWord">
+        <item>Charge</item>
+        <item>Total</item>
+        <item>Pay</item>
+        <item>Credit card</item>
+        <item>Debit card</item>
+        <item>Cash</item>
+        <item>Sale</item>
+        <item>Discount</item>
+        <item>Clerk</item>
+        <item>Customer</item>
+        <item>Cashier</item>
+        <item>Return</item>
+    </string-array>
+    <string-array name="retailStoreMeaning">
+        <item>Cargar a la boleta</item>
+        <item>Total</item>
+        <item>Pagar</item>
+        <item>Tarjeta de credito</item>
+        <item>Tarjeta de débito</item>
+        <item>Efectivo</item>
+        <item>Rebaja</item>
+        <item>Descuento</item>
+        <item>Trabajador de la tienda</item>
+        <item>Cliente</item>
+        <item>Cajero</item>
+        <item>Retornar</item>
+    </string-array>
+    <string-array name="bankWords">
+        <item>Account</item>
+        <item>Checking account</item>
+        <item>Savings account</item>
+        <item>Debit card</item>
+        <item>Credit card</item>
+        <item>Withdraw</item>
+        <item>Deposit</item>
+        <item>Loan</item>
+        <item>Mortage</item>
+        <item>Teller</item>
+        <item>Accountant Holder</item>
+        <item>ATM</item>
+        <item>Fees</item>
+    </string-array>
+    <string-array name="bankMeanings">
+        <item>Cuenta</item>
+        <item>Dinero disponible en la cuenta</item>
+        <item>Cuenta de ahorros</item>
+        <item>Tarjeta de débito</item>
+        <item>Tarjeta de crédito</item>
+        <item>Retirar dinero</item>
+        <item>Deposito</item>
+        <item>Préstamo de dinero</item>
+        <item>Hipoteca</item>
+        <item>Banquero</item>
+        <item>Propietario de la cuenta</item>
+        <item>Cajero automático</item>
+        <item>Cargos</item>
+    </string-array>
+    <string-array name="postOfficeWords">
+        <item>Letter</item>
+        <item>Package</item>
+        <item>Ship</item>
+        <item>Send</item>
+        <item>Mail</item>
+        <item>Stamp</item>
+        <item>By air</item>
+        <item>Overnight</item>
+        <item>Mail carrier</item>
+        <item>Postal worker</item>
+    </string-array>
+    <string-array name="postOfficeMeanings">
+        <item>Carta</item>
+        <item>Paquete</item>
+        <item>Envio un paquete</item>
+        <item>Envio</item>
+        <item>Correo</item>
+        <item>Estampilla</item>
+        <item>Por avión</item>
+        <item>Al día siguiente, por la noche</item>
+        <item>El que lleva el email currier (DHC)</item>
+        <item>Trabajador de postal</item>
+    </string-array>
+    <string-array name="restaurantWord">
+        <item>Menu</item>
+        <item>Order</item>
+        <item>Appetizer</item>
+        <item>Beverage</item>
+        <item>Party</item>
+        <item>Reservation</item>
+        <item>Dish</item>
+        <item>Bill</item>
+        <item>Check</item>
+        <item>Table</item>
+        <item>Waiter</item>
+        <item>Server</item>
+        <item>Host</item>
+        <item>Hostess</item>
+        <item>Chef</item>
+    </string-array>
+    <string-array name="restaurantMeaning">
+        <item>Menu</item>
+        <item>Orden</item>
+        <item>Plato de entrado</item>
+        <item>Bebido</item>
+        <item>Fiesta</item>
+        <item>Reservacion</item>
+        <item>Plato</item>
+        <item>Cuenta</item>
+        <item>Cheque</item>
+        <item>Mesa</item>
+        <item>Mesero</item>
+        <item>Servidor</item>
+        <item>Anfitrion</item>
+        <item>Anfitriona</item>
+        <item>Chef</item>
+    </string-array>
+    <string-array name="realStateAgencyWord">
+        <item>Apartment</item>
+        <item>Condo</item>
+        <item>Home</item>
+        <item>Lease</item>
+        <item>Move in</item>
+        <item>Move out</item>
+        <item>Close on</item>
+        <item>Deposit</item>
+        <item>Landlord</item>
+        <item>Renter</item>
+        <item>Homeowner</item>
+    </string-array>
+    <string-array name="realStateAgencyMeaning">
+        <item>Apartamento donde vivir</item>
+        <item>Casa de un condominio</item>
+        <item>Hogar</item>
+        <item>Alquiler</item>
+        <item>Mudarse a</item>
+        <item>Mudarse de</item>
+        <item>Cerrar contrato</item>
+        <item>Deposito</item>
+        <item>Propietario de la casa alquilada</item>
+        <item>Inquilino</item>
+        <item>Propietario de una casa</item>
+    </string-array>
+    <string-array name="allPersons">
+        <item>Singular</item>
+        <item>I</item>
+        <item>You</item>
+        <item>He</item>
+        <item>She</item>
+        <item>It</item>
+        <item>Plural</item>
+        <item>We</item>
+        <item>You</item>
+        <item>They</item>
+    </string-array>
+    <string-array name="verbsPresentSimple">
+        <item>---</item>
+        <item>buy</item>
+        <item>cut</item>
+        <item>plays</item>
+        <item>draws</item>
+        <item>makes</item>
+        <item>--</item>
+        <item>know</item>
+        <item>eat</item>
+        <item>pay</item>
+    </string-array>
+    <string-array name="thirdpartPresentSimple">
+        <item>---</item>
+        <item>food.</item>
+        <item>the garden.</item>
+        <item>footbal at the stadium.</item>
+        <item>a nice picture.</item>
+        <item>the challange.</item>
+        <item>--</item>
+        <item>about them.</item>
+        <item>pizza last night.</item>
+        <item>the rent.</item>
+    </string-array>
+    <string-array name="verbsPresentContinuos">
+        <item>---</item>
+        <item>am buying</item>
+        <item>are saying</item>
+        <item>is seeing</item>
+        <item>is selling</item>
+        <item>is laying</item>
+        <item>--</item>
+        <item>are leaving</item>
+        <item>are thinking</item>
+        <item>are writing</item>
+    </string-array>
+    <string-array name="thirdpartPresentContinuos">
+        <item>---</item>
+        <item>food.</item>
+        <item>that I was wrong.</item>
+        <item>the movie at the cinema.</item>
+        <item>a nice house.</item>
+        <item>about the challange.</item>
+        <item>--</item>
+        <item>the house tonight.</item>
+        <item>to eat pizza this night.</item>
+        <item>a book for the library.</item>
+    </string-array>
+    <string-array name="verbsPresentPerfect">
+        <item>---</item>
+        <item>have begun</item>
+        <item>have written</item>
+        <item>has played</item>
+        <item>has built</item>
+        <item>has cost</item>
+        <item>--</item>
+        <item>have drawn</item>
+        <item>have driven</item>
+        <item>have cut</item>
+    </string-array>
+    <string-array name="verbsPresentPerfectContinuos">
+    <item>---</item>
+    <item>have been speaking</item>
+    <item>have been playing</item>
+    <item>has been writing</item>
+    <item>has been swimming</item>
+    <item>has been thinking</item>
+    <item>--</item>
+    <item>have been drawing</item>
+    <item>have been singing</item>
+    <item>have been dancing</item>
+</string-array>
+
+    <string-array name="vacio">
+        <item>---</item>
+        <item>---</item>
+        <item>---</item>
+        <item>---</item>
+        <item>---</item>
+        <item>---</item>
+        <item>--</item>
+        <item>---</item>
+        <item>---</item>
+        <item>---</item>
+    </string-array>
+
+
+    <string-array name="verbsPastSimple">
+        <item>---</item>
+        <item>begun</item>
+        <item>broke</item>
+        <item>brought</item>
+        <item>built</item>
+        <item>chose</item>
+        <item>--</item>
+        <item>cut</item>
+        <item>did</item>
+        <item>drove</item>
+    </string-array>
+    <string-array name="thirdpartPastSimple">
+        <item>---</item>
+        <item>to eat seafood since I was a child.</item>
+        <item>this cellphone because I fall down in the stairs.</item>
+        <item>pizza to the cinema.</item>
+        <item>a nice house.</item>
+        <item>he for the challange.</item>
+        <item>--</item>
+        <item>the garden last afternoon.</item>
+        <item>it right!.</item>
+        <item>to the Javier Prado last morning.</item>
+    </string-array>
+
+    <string-array name="verbsPastContinuos">
+        <item>---</item>
+        <item>was buying</item>
+        <item>were thinking</item>
+        <item>was singing</item>
+        <item>was running</item>
+        <item>was walking</item>
+        <item>--</item>
+        <item>were programming</item>
+        <item>were sitting</item>
+        <item>were drawing</item>
+    </string-array>
+    <string-array name="thirdpartPastContinuos">
+        <item>---</item>
+        <item>the equipment when I see the promotion</item>
+        <item>about the game when I see the TV.</item>
+        <item>Red Hot Chilli Peppers in the bus.</item>
+        <item>when I fall down.</item>
+        <item>in the city when a earthquaque happen.</item>
+        <item>--</item>
+        <item>all the night in my room.</item>
+        <item>at the right.</item>
+        <item>a nice painting.</item>
+    </string-array>
+    <string-array name="thirdpartPastSimplePassive">
+        <item>by farmers</item>
+        <item>by engineers in the United States</item>
+        <item>imported by merchandisers from China</item>
+        <item>was drawn by DaVinci</item>
+    </string-array>
+    <string-array name="verbsPastSimplePassive">
+        <item>was made</item>
+        <item>were made</item>
+        <item>were imported</item>
+        <item>was drawn</item>
+    </string-array>
+    <string-array name="firstPartPastSimplePassive">
+        <item>Pisco</item>
+        <item>Computers</item>
+        <item>Cellphones</item>
+        <item>Monalisa</item>
+    </string-array>
+    <string-array name="verbsPastPerfect">
+    <item>---</item>
+    <item>had driven</item>
+    <item>had done</item>
+    <item>had cost</item>
+    <item>had chosen</item>
+    <item>had made</item>
+    <item>---</item>
+    <item>had sold</item>
+    <item>had sent</item>
+    <item>had sat</item>
+</string-array>
+    <string-array name="verbsPastPerfectContinuos">
+        <item>---</item>
+        <item>had been giving</item>
+        <item>had been playing</item>
+        <item>had been dancing</item>
+        <item>had been singing</item>
+        <item>had been running</item>
+        <item>---</item>
+        <item>had been paying</item>
+        <item>had been going</item>
+        <item>had been hearing</item>
+    </string-array>
+    <string-array name="verbsFutureBeGoingTo">
+        <item>---</item>
+        <item>am going to swim</item>
+        <item>are going to play</item>
+        <item>is going to make</item>
+        <item>is going to send</item>
+        <item>is going to sit</item>
+        <item>---</item>
+        <item>are going to meet</item>
+        <item>are going to lose</item>
+        <item>are going to get</item>
+    </string-array>
+    <string-array name="verbsWill">
+    <item>---</item>
+    <item>will play</item>
+    <item>will come</item>
+    <item>will draw</item>
+    <item>will cost</item>
+    <item>will cut</item>
+    <item>---</item>
+    <item>will buy</item>
+    <item>will bring</item>
+    <item>will choose</item>
+</string-array>
+    <string-array name="verbsMayOrMight">
+        <item>---</item>
+        <item>might need</item>
+        <item>might buy</item>
+        <item>might study</item>
+        <item>might send</item>
+        <item>might come</item>
+        <item>---</item>
+        <item>may break</item>
+        <item>may build</item>
+        <item>may run</item>
+    </string-array>
+    <string-array name="thirdPartMayOrMight">
+    <item>---</item>
+    <item>need a toothbrush.</item>
+    <item>buy a IPAD.</item>
+    <item>to pass the exam.</item>
+    <item>send the email.</item>
+    <item>in the exam.</item>
+    <item>---</item>
+    <item>the glass.</item>
+    <item>a computer.</item>
+    <item>in the exam.</item>
+</string-array>
+    <string-array name="verbsCould">
+        <item>---</item>
+        <item>could break</item>
+        <item>could be</item>
+        <item>could pass</item>
+        <item>could do it</item>
+        <item>could think</item>
+        <item>---</item>
+        <item>could call</item>
+        <item>could sell</item>
+        <item>could see</item>
+    </string-array>
+    <string-array name="thirdPartCould">
+        <item>---</item>
+        <item>this windows if I wanted to.</item>
+        <item>mine if I ask you to be my girlfriend.</item>
+        <item>the exam if he studies.</item>
+        <item>, if she wants to.</item>
+        <item>, if it has a brain.</item>
+        <item>---</item>
+        <item>the police, if does not wake up.</item>
+        <item>the house, if you need money.</item>
+        <item>the Ocean, if they were close enough.</item>
+    </string-array>
+    <string-array name="verbsShould">
+        <item>---</item>
+        <item>should go</item>
+        <item>should draw</item>
+        <item>should meet</item>
+        <item>should let</item>
+        <item>should hold</item>
+        <item>---</item>
+        <item>should hear</item>
+        <item>should find</item>
+        <item>should give</item>
+    </string-array>
+    <string-array name="thirdPartShould">
+        <item>---</item>
+        <item>to sleep.</item>
+        <item>a picture.</item>
+        <item>her.</item>
+        <item>me down</item>
+        <item>the button.</item>
+        <item>---</item>
+        <item>hear him.</item>
+        <item>find the office</item>
+        <item>give a gift.</item>
+    </string-array>
+    <string-array name="verbsMust">
+        <item>---</item>
+        <item>must take</item>
+        <item>must pass</item>
+        <item>must read</item>
+        <item>must choose</item>
+        <item>must build</item>
+        <item>---</item>
+        <item>must win</item>
+        <item>must leave</item>
+        <item>must know</item>
+    </string-array>
+    <string-array name="thirdPartMust">
+        <item>---</item>
+        <item>a shower.</item>
+        <item>the exam.</item>
+        <item>articles.</item>
+        <item>the rightone.</item>
+        <item>build this program.</item>
+        <item>---</item>
+        <item>win the contest.</item>
+        <item>leave the city</item>
+        <item>about Maths.</item>
+    </string-array>
+    <string-array name="baseForm">
+        <item>Base form</item>
+        <item>be</item>
+        <item>begin</item>
+        <item>break</item>
+        <item>bring</item>
+        <item>buy</item>
+        <item>build</item>
+        <item>choose</item>
+        <item>come</item>
+        <item>cost</item>
+        <item>cut</item>
+        <item>do</item>
+        <item>draw</item>
+        <item>drive</item>
+        <item>eat</item>
+        <item>feel</item>
+        <item>find</item>
+        <item>get</item>
+        <item>give</item>
+        <item>go</item>
+        <item>have</item>
+        <item>hear</item>
+        <item>hold</item>
+        <item>keep</item>
+        <item>know</item>
+        <item>leave</item>
+        <item>lead</item>
+        <item>let</item>
+        <item>lie</item>
+        <item>lose</item>
+        <item>make</item>
+        <item>mean</item>
+        <item>meet</item>
+        <item>pay</item>
+        <item>put</item>
+        <item>run</item>
+        <item>say</item>
+        <item>see</item>
+        <item>sell</item>
+        <item>send</item>
+        <item>set</item>
+        <item>sit</item>
+        <item>speak</item>
+        <item>spend</item>
+        <item>stand</item>
+        <item>take</item>
+        <item>teach</item>
+        <item>tell</item>
+        <item>think</item>
+        <item>understand</item>
+        <item>wear</item>
+        <item>win</item>
+        <item>write</item>
+
+
+    </string-array>
+    <string-array name="pastTense">
+        <item>Past tense</item>
+        <item>was/were</item>
+        <item>began</item>
+        <item>broke</item>
+        <item>brought</item>
+        <item>bought</item>
+        <item>built</item>
+        <item>chose</item>
+        <item>came</item>
+        <item>cost</item>
+        <item>cut</item>
+        <item>did</item>
+        <item>drew</item>
+        <item>drove</item>
+        <item>ate</item>
+        <item>felt</item>
+        <item>found</item>
+        <item>got</item>
+        <item>gave</item>
+        <item>went</item>
+        <item>had</item>
+        <item>heard</item>
+        <item>held</item>
+        <item>kept</item>
+        <item>knew</item>
+        <item>left</item>
+        <item>led</item>
+        <item>let</item>
+        <item>lay</item>
+        <item>lost</item>
+        <item>made</item>
+        <item>meant</item>
+        <item>met</item>
+        <item>paid</item>
+        <item>put</item>
+        <item>ran</item>
+        <item>said</item>
+        <item>saw</item>
+        <item>sold</item>
+        <item>sent</item>
+        <item>set</item>
+        <item>sat</item>
+        <item>spoke</item>
+        <item>spent</item>
+        <item>stood</item>
+        <item>took</item>
+        <item>taught</item>
+        <item>told</item>
+        <item>thought</item>
+        <item>understood</item>
+        <item>wore</item>
+        <item>won</item>
+        <item>wrote</item>
+
+    </string-array>
+    <string-array name="pastParticiple">
+        <item>Past participle</item>
+        <item>been</item>
+        <item>begun</item>
+        <item>broken</item>
+        <item>brought</item>
+        <item>bought</item>
+        <item>built</item>
+        <item>chosen</item>
+        <item>come</item>
+        <item>cost</item>
+        <item>cut</item>
+        <item>done</item>
+        <item>drawn</item>
+        <item>driven</item>
+        <item>eaten</item>
+        <item>felt</item>
+        <item>found</item>
+        <item>got</item>
+        <item>given</item>
+        <item>gone</item>
+        <item>had</item>
+        <item>heard</item>
+        <item>held</item>
+        <item>kept</item>
+        <item>known</item>
+        <item>left</item>
+        <item>led</item>
+        <item>let</item>
+        <item>lain</item>
+        <item>lost</item>
+        <item>made</item>
+        <item>meant</item>
+        <item>met</item>
+        <item>paid</item>
+        <item>put</item>
+        <item>run</item>
+        <item>said</item>
+        <item>seen</item>
+        <item>sold</item>
+        <item>sent</item>
+        <item>set</item>
+        <item>sat</item>
+        <item>spoken</item>
+        <item>spent</item>
+        <item>stood</item>
+        <item>taken</item>
+        <item>taught</item>
+        <item>told</item>
+        <item>thought</item>
+        <item>understood</item>
+        <item>worn</item>
+        <item>won</item>
+        <item>written</item>
+
+    </string-array>
+</resources>
